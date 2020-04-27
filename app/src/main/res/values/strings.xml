@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Softpro</string>
+    <string name="selected_item">Selected item:</string>
+    <string-array name="Designation">
+        <item>Software Engineer</item>
+        <item>Tester</item>
+        <item>Admin</item>
+        <item>Tech Lead</item>
+    </string-array>
+</resources>
